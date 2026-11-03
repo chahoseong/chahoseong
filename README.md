@@ -21,8 +21,3 @@
     - UniTask를 활용한 비동기 프로그래밍
     - Addressables, Cinemachine 등 라이브러리 활용
     - 게임플레이, 에디터 툴 구현
-
-## 주요 프로젝트
-### 언리얼 엔진
-- [Multiplayer Action RPG](https://github.com/chahoseong/DungeonRealms-Source)
-- [Multiplayer Shooter](https://github.com/chahoseong/multiplayer-shooter-source) - 진행 중
